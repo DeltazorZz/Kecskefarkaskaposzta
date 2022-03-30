@@ -1,0 +1,20 @@
+main{
+    margin: auto;
+    width: 1000px;
+}
+header{
+    border: 1px solid black;
+}
+#bal{
+    border: 1px solid black;
+}
+#csonak{
+    border: 1px solid black;
+    background-color: aqua;
+}
+#jobb{
+    border: 1px solid black;
+}
+footer{
+    background-color: aqua;
+}
